@@ -1,0 +1,15 @@
+{
+  "name": "webapp",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx browser-sync -w"
+  },
+  "keywords": [],
+  "author": "wesleyazevedo",
+  "license": "MIT",
+  "description": "Gesture Controller - Semana JS Expert 7.0",
+  "devDependencies": {
+    "browser-sync": "^2.27.11"
+  }
+}
